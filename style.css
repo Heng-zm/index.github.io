@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Noto+Sans+Khmer&display=swap');
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+.title img{
+    width: 100%;
+    background: #00B0FF;
+    
+}
+.loce a{
+    padding: 10px 23px;
+    position: absolute;
+    margin-left: 50px;
+    border: solid 1px #ccc;
+    text-decoration-line: blink;
+    background:  #00B0FF;
+    color: #FFF;
+    border-radius: 4px;
+}
+.loca a {
+    padding: 10px;
+    position: absolute;
+    margin-left: 190px;
+    border: solid 1px #ccc;
+    text-decoration-line: blink;
+    background:  #fff;
+    color: #000000;
+    border-radius: 4px;
+}
+.content {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.content img {
+    width: 210px;
+    background-size: cover;
+}
+.print {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.fortuner {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 170px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.fortuner img {
+    width: 210px;
+    background-size: cover;
+}
+.ford {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.lexus-eye {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 320px;
+    height: 139px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;  
+}
+.lexus-eye img {
+    width: 260px;
+    margin-left: -30px;
+    background-size: cover;
+}
+.lexus {
+   display: flex; 
+   margin-left: -15px;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Mukta', sans-serif;
+}
+.masda-eye {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 470px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.masda-eye img {
+    width: 210px;
+    background-size: cover;
+}
+.masda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.starex-eye {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    height: 120px;
+    margin-top: 607px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.starex-eye img {
+    width: 210px;
+}
+.starex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.lexus-rx300 {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 737px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.lexus-rx300 img {
+    width: 210px;
+    background-size: cover;
+}
+.lexus-rx {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.highlander {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 880px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.highlander img {
+    width: 220px;
+    background-size: cover;
+}
+.high {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.prius-eye {
+    display: flex;
+    position: absolute;
+    left: 30px;
+    width: 300px;
+    margin-top: 1030px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    max-width: 300px;
+}
+.prius-eye img {
+    width: 210px;
+    background-size: cover;
+}
+.prius {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+}
+.icon i {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.icon2 {
+    margin-top: 15px;
+    margin-left: 20px;
+} 
+.wprab {
+    margin-top: 50px;
+}
